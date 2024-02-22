@@ -19,13 +19,9 @@ FormSite is a simple web application built with React.js that allows users to fi
 ![alt text](image.png)
 
 ## Screenshots
-## Screenshot
+
 
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 
-
-
-
-Provide a brief explanation of the code structure and any challenges faced during implementation.
